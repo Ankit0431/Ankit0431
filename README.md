@@ -12,8 +12,9 @@ I'm Ankit Pande, a passionate second-year computer science student with a keen i
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: Email: pandeankitr@gmail.com
 ### 🌱
-
+![Ankit0431's Stats](https://github-readme-stats.vercel.app/api?username=Ankit0431&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 ![Ankit0431's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankit0431&theme=nightowl&hide_border=true)
+![Ankit0431's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit0431&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 <!--
 **Ankit0431/Ankit0431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
