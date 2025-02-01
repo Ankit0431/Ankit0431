@@ -22,9 +22,9 @@ Outside of coding, I volunteer as an **academic mentor**, helping underprivilege
 ---
 
 ## 📜 Research & Patents  
-🔬 **Sentiment-Aware Stock Prediction** (IJ-ICT, 2024)  
-🔍 **Deep Learning Edge Detection** (Collab w/ VNIT)  
-📜 **AI-Based Answer Grading System** (Patent Pending)  
+🔬 **Sentiment-Aware Stock Prediction**
+🔍 **Deep Learning Edge Detection**
+📜 **AI-Based Answer Grading System**
 
 ---
 
