@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Ankit Pande!  
 
 🎓 **B.Tech. Computer Science** @ Shri Ramdeobaba College of Engineering and Management (10/10 GPA)  
-💻 **Aspiring Software Engineer** | **Upcoming SWE Intern @ JP Morgan Chase**  
+💻 **Aspiring Software Engineer**
 ☁ **Certified in Azure Fundamentals (AZ-900)**  
 
 ---
