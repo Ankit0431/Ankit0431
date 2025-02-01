@@ -1,22 +1,47 @@
-## 👋 Hello World!
+# 👋 Hey there, I'm Ankit Pande!  
 
-I'm Ankit Pande, a passionate second-year computer science student with a keen interest in crafting digital experiences. My journey into the world of coding began with a fascination for web development, and since then, I've been on a quest to explore the realms of terminal programming and AI development.
+🎓 **B.Tech. Computer Science** @ Shri Ramdeobaba College of Engineering and Management (10/10 GPA)  
+💻 **Aspiring Software Engineer** | **Upcoming SWE Intern @ JP Morgan Chase**  
+☁ **Certified in Azure Fundamentals (AZ-900)**  
 
-### 🚀 What I'm into:
+---
 
-- **Web Development:** Turning ideas into interactive and user-friendly websites is my forte. HTML, CSS, and JavaScript are my go-to tools for front-end magic, while I love to dive into the backend with technologies like Node.js and Express.
+## 🚀 About Me  
+I'm a tech enthusiast passionate about **software development, machine learning, and cloud computing**. I love solving complex problems, whether it's **optimizing solar panel installations using YOLO & SAM**, **predicting stock trends with sentiment analysis**, or **designing AI-driven grading systems**.  
 
-- **Terminal Programming:** The command line is my playground. I enjoy building efficient and powerful scripts that make life in the terminal a breeze. Shell scripting and automation are some of my favorite tools of the trade.
+Outside of coding, I volunteer as an **academic mentor**, helping underprivileged kids with math! 📚✨  
 
-- **AI Development:** Exploring the fascinating world of artificial intelligence, I'm diving into machine learning and deep learning. From tinkering with neural networks to implementing AI solutions, I'm on a quest to make machines smarter.
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: Email: pandeankitr@gmail.com
+---
+
+## 🛠 Tech Stack  
+- **Languages**: Python, Java, C++, JavaScript, SQL  
+- **Frameworks & Tools**: ReactJS, Node.js, Firebase, Power BI  
+- **ML & AI**: TensorFlow, PyTorch, OpenCV, NLP  
+- **Cloud & DevOps**: Azure ☁, AWS 🚀, Git  
+
+---
+
+## 📜 Research & Patents  
+🔬 **Sentiment-Aware Stock Prediction** (IJ-ICT, 2024)  
+🔍 **Deep Learning Edge Detection** (Collab w/ VNIT)  
+📜 **AI-Based Answer Grading System** (Patent Pending)  
+
+---
+
+## 📫 Let's Connect!  
+💼 [LinkedIn](https://www.linkedin.com/in/ankit-pande-31ap04)  
+💻 [GitHub](https://github.com/Ankit0431)  
+📧 pandeankitr@gmail.com  
+
+---
+
+_✨ Always open to cool collaborations & interesting projects! ✨_
+
 ### 🌱
 ![Ankit0431's Stats](https://github-readme-stats.vercel.app/api?username=Ankit0431&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 ![Ankit0431's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankit0431&theme=nightowl&hide_border=true)
 ![Ankit0431's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit0431&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 <!--
-**Ankit0431/Ankit0431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
