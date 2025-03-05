@@ -29,8 +29,10 @@ Outside of coding, I volunteer as an **academic mentor**, helping underprivilege
 ---
 
 ## 📫 Let's Connect!  
-💼 [LinkedIn](https://www.linkedin.com/in/ankit-pande-31ap04)   
-📧 pandeankitr@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/ankit-pande-31ap04)  
+💻[Academic portfolio](https://ankit0431.github.io/)  
+📧 [Email](pandeankitr@gmail.com)  
+
 
 ---
 
